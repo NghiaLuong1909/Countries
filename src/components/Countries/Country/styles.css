@@ -1,0 +1,31 @@
+.btn--back {
+  width: 100px;
+  height: 40px;
+  border: none;
+  outline: none;
+  box-shadow: 1px 1px 10px 0.1px grey;
+  margin: 104px 60px 40px 60px;
+  border-radius: 8px;
+  background-color: var(--spectrum-global-color-bgPrimary);
+}
+
+.link--back {
+  text-decoration: none;
+  color: var(--spectrum-global-color-contentPrimary);
+}
+
+.icon--back {
+  font-size: 14px;
+  margin-left: 8px;
+}
+
+.info--detail {
+  margin: 0 100px 0 60px;
+}
+
+.flag {
+  width: 520px;
+  height: 360px;
+  border-radius: 8px;
+  box-shadow: 0.5px 0.5px 10px 0.5px black;
+}

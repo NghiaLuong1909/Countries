@@ -1,0 +1,24 @@
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding: 12px 60px;
+  background-color: #4c5d6d;
+  .btn--theme {
+    padding: 8px;
+    border-radius: 8px;
+    background-color: #202d36;
+
+    &:hover {
+      cursor: pointer;
+      background-color: #414e58;
+      box-shadow: 1px 1px;
+    }
+  }
+
+  .link--logo {
+    text-decoration: none;
+    color: #fff;
+  }
+}

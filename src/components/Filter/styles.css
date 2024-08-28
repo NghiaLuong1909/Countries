@@ -1,0 +1,26 @@
+.container--filter {
+  margin-top: 64px;
+  width: 100%;
+  padding: 20px 60px;
+  color: #fff;
+}
+
+input {
+  width: 400px;
+  height: 40px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  outline: none;
+  padding: 0 8px;
+  font-size: 16px;
+}
+
+.list--regions {
+  width: 160px;
+  height: 40px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  outline: none;
+  padding: 0 8px;
+  font-size: 16px;
+}
